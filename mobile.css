@@ -1,0 +1,142 @@
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  
+  #header{
+    height:50%;
+  }
+
+
+ #menu{
+  	width:100%;
+  }
+
+#menu a,#list-item{
+	font-size: .8em;
+
+}
+
+#intro-text{
+	padding-top:5%;
+	text-align: center
+}
+
+#features{
+	font-size:1em;
+}
+
+#logos,.LearnMore,.download-icon{
+  	display:none
+  }
+
+.first-row div, .second-row div{
+  	display:table-row;
+  	font-size:1em;
+  }
+
+#title{
+	margin: 0 auto;
+  }
+
+.round-logos{
+  	display:-webkit-inline-box;
+  	text-align:center;
+  }
+
+.round-logos section{
+  	width:50%;
+  	position: relative;
+  	float:left;
+  	margin-bottom:5%;
+  }
+
+.red-slogan-second-sentence{
+  	margin:0 auto;
+  	font-size:inherit;
+  	line-height: inherit;
+  }
+
+#red-slogan h1{
+	font-size:1.6em;
+	line-height:1em;
+}
+
+.product-description{
+  	display:inline;
+  }
+.orange-image{
+	margin-top:0;
+}
+
+.des-1,.des-3{
+  	font-size:1.5em;
+  }
+
+.des-2{
+  	font-size:2em;
+  }
+
+.des-4 span{
+  	display: inherit;
+  }
+
+.second-product-orange{
+	border-top:5px solid orange;
+	padding-top:14px;
+}
+
+.first-product-green{
+	border-top:5px solid #609a1a;
+	padding-top:14px;
+}
+
+
+.adobe-proxima-nova-light,.adobe-proxima-nova-bold{
+  	font-size:2em;
+  }
+  
+.ingredient-description-1 img, .ingredient-description-2 img{
+  	width:55%;
+  }
+.ingredient-description-1{
+	margin-top:-20%;
+}
+#ingredient-container{
+	margin-bottom:20%;
+}
+
+.ingredient-description-2 img{
+  	margin-left:56%;
+  	margin-top:-20%;
+  }
+
+
+
+.yellow-slogan{
+	font-size:1.6em;
+	padding:7.5% 0;
+}
+
+.yellow-slogan img{
+	vertical-align: inherit;
+
+}
+.adobe-proxima-nova-light, .adobe-proxima-nova-bold,#red-slogan{
+	font-size:1em;
+}
+
+.background-ingredient-img img{
+	width:100%;
+}
+#contact-info h1, .title h1{
+	font-size:1.6em;
+}
+
+#contact-info section{
+  	width:100%;
+  }
+
+.email-decoration{
+	width:46%;
+}
+
+}
+
